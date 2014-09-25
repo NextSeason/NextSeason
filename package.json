@@ -1,2 +1,22 @@
 {
+    "name" : "NextSeason",
+    "title" : "Next Season",
+    "description" : "Next Season",
+    "version" : "0.0.1",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/NextSeason/NextSeason"
+    },
+    "keywords" : [
+        "development",
+        "javascript",
+        "front end"
+    ],
+    "devDependencies" : {
+        "jshint" : "2.5.2",
+        "underscore" : "1.6.0"
+    },
+    "bin" : {
+        "nextseason" : "bin/nextseason"
+    }
 }
